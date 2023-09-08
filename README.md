@@ -9,7 +9,7 @@
 - 📫 Connect with me on: 
 - [LinkedIn](http://linkedin.com/in/romanpk/)
 - [Twitter](https://twitter.com/menotroman)
-- [roman.pk@yahoo.com](mailto:roman.pk@yahoo.com)
+- email: [roman.pk@yahoo.com](mailto:roman.pk@yahoo.com)
 
 
 <!---
